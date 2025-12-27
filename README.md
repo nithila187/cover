@@ -158,7 +158,8 @@ padding: 10px;
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (38).png>)
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/8222b516-41b7-463a-bfe1-9f2f25d22933" />
+
 
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
